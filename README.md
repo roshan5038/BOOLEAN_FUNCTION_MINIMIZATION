@@ -30,23 +30,20 @@ Hardware – PCs, Cyclone II , USB flasher
 
 5.	For different input combinations generate the timing diagram.
 
+PROGRAM:
 
-**Program:**
+/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. ex 2 1
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+RTL REALIZATION OUTPUT:
 
-Developed by: RegisterNumber:*/
+ex 2 2 WhatsApp Image 2024-11-21 at 11 24 37_5d166796 WhatsApp Image 2024-11-21 at 11 24 38_0452f867
 
+RTL
 
-**RTL realization**
+TIMING DIAGRAM
 
-**Output:**
+ex 2 3
 
-**RTL**
+RESULT:
 
-**Timing Diagram**
-
-**Result:**
-
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
-
+Thus the given logic functions are implemented using and their operations are verified using Verilog programming successfully.
