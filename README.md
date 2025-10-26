@@ -33,17 +33,10 @@ Program:
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
 
-Developed by:AHAMED JASEER SHA .E RegisterNumber:212224040015
-module
-sample2(a,b,c,d,w,x,y,z,f1,f2);
-input a,b,c,d,w,x,y,z;
-output f1,f2;
-assign f1=((~a)&(~b)&(~c)&(~d))|(a&
-(~c)&(~d))|(~b)&c&(~d)|((~a)&b&c&d)|
-(b&(~c)&d);
-assign f2=(x&(~y)&z)|((~x)&(~y)&z)|
-((~w)&x&y)|(w&x&(~y))|(w&x&y);
-endmodule
+Developed by:ROSHAN V RegisterNumber: 25004228
+
+<img width="688" height="344" alt="Screenshot 2025-10-26 113708" src="https://github.com/user-attachments/assets/152673f9-1e0e-49bb-9d3f-45a51aa8a351" />
+
 RTL realization
 
 <img width="1027" height="630" alt="image" src="https://github.com/user-attachments/assets/a343738a-50aa-4744-b200-aedf6f1664bf" />
